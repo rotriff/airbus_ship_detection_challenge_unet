@@ -12,7 +12,7 @@ To predict allocation of ships on test images we create two functions, first mak
 
 As conclusion it should be mentioned that model has a room to grow, as it has notable imperfections, though has decent scores: loss: -0.5898 - dice_coef: 0.5906 - binary_accuracy: 0.9782 - val_loss: -0.2898 - val_dice_coef: 0.3163 - val_binary_accuracy: 0.8258
 
-Cropped datasets are present on GitHub for presentation and testing.
+Cropped test dataset is present on GitHub for presentation and testing.
 https://github.com/shellyguns/airbus_ship_detection_challenge_unet
 
 Full dataset and completed task with exploratory analysis on Kaggle.
